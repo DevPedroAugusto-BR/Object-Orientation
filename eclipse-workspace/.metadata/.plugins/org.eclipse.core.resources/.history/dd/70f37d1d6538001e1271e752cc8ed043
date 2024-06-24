@@ -1,0 +1,15 @@
+package first_JavaProgram;
+
+public class Main {
+
+	public static void main(String[] args) {
+		System.out.println("Hello Java CruelWorld");
+		
+		int y = 32;
+		
+		System.out.println(y);
+		System.out.println("Good Afternoom Java World");
+
+	}
+
+}
